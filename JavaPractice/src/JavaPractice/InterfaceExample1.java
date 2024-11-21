@@ -1,3 +1,5 @@
+package JavaPractice;
+
 //Step 1: Define the Person interface with the speak method
 interface Person {
  void speak();  // Abstract method
